@@ -1,3 +1,13 @@
+REM #############################
+REM #                           #
+REM # Title        : example    #
+REM # Author       : example    #
+REM # Version      : 1.0        #
+REM # Category     : example    #
+REM # Target       : OS example #
+REM #                           #
+REM #############################
+
 # Acode Development Container - Standalone Docker Build
 # 
 # This Dockerfile is for MANUAL Docker builds (docker build/run).
